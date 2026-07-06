@@ -1,0 +1,4 @@
+.env
+usuarios.bd
+__pycache__/
+*.pyc
